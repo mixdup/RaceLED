@@ -34,9 +34,6 @@ p {
 	line-height: 180%;
 }
 
-strong {
-}
-
 a {
 	color: #FFFFFF;
 }
@@ -248,9 +245,6 @@ tr:nth-child(even) {
 #footer p {
 	text-align: center;
 	font-size: 12px;
-}
-
-#footer a {
 }
 
 /** LIST STYLE 1 */
