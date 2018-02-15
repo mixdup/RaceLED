@@ -69,14 +69,13 @@ hr {
 
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: 80%;
 }
 
 th {
 	color: #0C0C0C;
-	font-size: 0em;
 	font-weight: bold;
-	background-color: #e05504;
+	background-color: orange;
 }
 td, th {
 	color: #0C0C0C;
