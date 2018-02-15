@@ -72,13 +72,17 @@ table {
     width: 100%;
 }
 
+th {
+	font-size: 0em;
+	background-color: #e05504;
+}
 td, th {
     border: 2px solid #dddddd;
     text-align: left;
     padding: 8px;
 }
 
-tr:nth-child(even) {
+tr {
     background-color: #c0b4b4;
 }
 
