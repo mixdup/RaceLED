@@ -82,7 +82,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #c0b4b4;
 }
 
 #full-screen-background-image {
