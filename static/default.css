@@ -73,10 +73,13 @@ table {
 }
 
 th {
+	color: #0C0C0C;
 	font-size: 0em;
+	font-weight: bold;
 	background-color: #e05504;
 }
 td, th {
+	color: #0C0C0C;
     border: 2px solid #dddddd;
     text-align: left;
     padding: 8px;
